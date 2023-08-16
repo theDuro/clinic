@@ -1,0 +1,6 @@
+
+- wszystkich aktywnych wizyt danego pacjenta - wizyta ma datę późniejszą niż obecna,
+- wszystkich pacjentów niepełnoletnich - datę wyciągnąć można na podstawie peselu,
+- czy dany pacjent był kiedyś na wizycie u danego lekarza, jeśli tak to kiedy była ostatnia wizyta i zliczy ilość tych wizyt.
+- jak macie jakiś pomysł jeszcze to możecie coś jeszcze się pobawić ;)
+Sposób połączenia z bazą danych i jej obsługa jest dowolna. Mile widziane
